@@ -1,8 +1,12 @@
 #include <stdio.h>
 
+/*  main function
+ *  starts here
+ *  */
+
 int main(void)
-	/* main content */
+
 {
-		puts("\"Programming is like building a multilingual puzzle");
-			return (0);
+   puts("\"Programming is like building a multilingual puzzle");
+   return (0);
 }
