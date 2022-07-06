@@ -3,7 +3,7 @@
  * print putchar
  */
 int putchar();
-int main()
+int main(void)
 {
 putchar()
 {
